@@ -1,5 +1,5 @@
 {
-  "name": "Jlonom/yii2-tinymce",
+  "name": "jlonom/yii2-tinymce",
   "description": "TinyMCE widget for Yii2",
   "keywords": ["yii", "extension", "widget", "tinymce"],
   "license": "MIT",
@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "jlonom\\tinymce\\": ""
+      "Jlonom\\tinymce\\": ""
     }
   }
 }
