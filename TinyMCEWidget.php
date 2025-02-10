@@ -40,7 +40,7 @@ class TinyMCEWidget extends InputWidget
     {
         $view = $this->getView();
 
-        TinyMceAsset::register($view);
+        TinyMCEAsset::register($view);
 
         $id = $this->options['id'];
 
