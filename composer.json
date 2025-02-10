@@ -1,0 +1,23 @@
+{
+  "name": "Jlonom/yii2-tinymce",
+  "description": "TinyMCE widget for Yii2",
+  "keywords": ["yii", "extension", "widget", "tinymce"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jlonom",
+      "email": "3850185@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable" : true,
+  "require": {
+    "yiisoft/yii2": "*",
+    "tinymce/tinymce": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "jlonom\\tinymce\\": ""
+    }
+  }
+}
